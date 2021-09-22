@@ -1,6 +1,6 @@
 # IDS-MiniProject
 
-This repository is contains a miniproject for course Introduction to Data Science at University of Helsinki.
+This repository contains a miniproject for course Introduction to Data Science at University of Helsinki.
 
 Our intended data sources are the Finnish Meteorological Institute for the weather data and the National Supervisory Authority for Welfare and Health (Valvira) for alcohol consumption. These can be found from the links below:
 

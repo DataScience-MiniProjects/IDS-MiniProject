@@ -1,3 +1,6 @@
+# Predictions for all models 
+There is tables for all ten models created. In all tables actual values taken from alcohol data for 2021 (Valvira) and predicted values from our models. Difference shows, how much more (positive sign) or how much less (negative sign) the prediction was compared to actual value of consumed alcohol. All values are in litres. 
+
 # Models with Sunshine Duration
 ## Total
 |           |  Jan   | Feb |  Mar |  Apr |  Jun | Jul |

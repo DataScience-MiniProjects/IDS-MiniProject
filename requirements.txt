@@ -6,3 +6,4 @@ voila
 ipykernel
 statsmodels
 openpyxl
+voila-material

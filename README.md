@@ -10,3 +10,5 @@ Our intended data sources are the Finnish Meteorological Institute for the weath
 3. https://www.valvira.fi/alkoholi/tilastot/alkoholitilastot-vuosi-2018
 4. https://www.valvira.fi/alkoholi/tilastot/alkoholitilastot-vuosi-2017
 5. https://www.ilmatieteenlaitos.fi/havaintojen-lataus
+
+-
